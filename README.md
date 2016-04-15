@@ -56,7 +56,7 @@
    
     <div class="col-md-4">
       <a href="d824896e4f2f1d3f38755c643cba50ea.jpg" class="thumbnail">
-        <p>Pulpit Rock: A famous tourist attraction in Forsand, Ryfylke, Norway.</p>    
+        <p>從前從前，有個部落裡住著三隻小豬......</p>    
 
         <img src="d824896e4f2f1d3f38755c643cba50ea.jpg" alt="Pulpit Rock" style="width:150px;height:150px">
       </a>
@@ -65,13 +65,14 @@
 
     <div class="col-md-4">
       <a href="下載.jpg" class="thumbnail">
-        <p>Moustiers-Sainte-Marie: Considered as one of the "most beautiful villages of France".</p>
+        <p>從前從前，有個部落裡住著一個灰姑娘......</p>
         <img src="下載.jpg" alt="Moustiers Sainte Marie" style="width:150px;height:150px">
       </a>
     </div>
+    
     <div class="col-md-4">
       <a href="下載 (1).jpg" class="thumbnail">
-        <p>The Cinque Terre: A rugged portion of coast in the Liguria region of Italy.</p>      
+        <p>跑得快跑得快~~~</p>      
         <img src="下載 (1).jpg" alt="Cinque Terre" style="width:150px;height:150px">
       </a>
     </div>
