@@ -70,9 +70,9 @@
       </a>
     </div>
     <div class="col-md-4">
-      <a href="cinqueterre.jpg" class="thumbnail">
+      <a href="下載 (1).jpg" class="thumbnail">
         <p>The Cinque Terre: A rugged portion of coast in the Liguria region of Italy.</p>      
-        <img src="cinqueterre.jpg" alt="Cinque Terre" style="width:150px;height:150px">
+        <img src="下載 (1).jpg" alt="Cinque Terre" style="width:150px;height:150px">
       </a>
     </div>
   </div>
