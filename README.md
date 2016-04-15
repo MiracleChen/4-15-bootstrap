@@ -55,10 +55,10 @@
   <div class="row">
    
     <div class="col-md-4">
-      <a href="pulpitrock.jpg" class="thumbnail">
+      <a href="d824896e4f2f1d3f38755c643cba50ea.jpg" class="thumbnail">
         <p>Pulpit Rock: A famous tourist attraction in Forsand, Ryfylke, Norway.</p>    
 
-        <img src="pulpitrock.jpg" alt="Pulpit Rock" style="width:150px;height:150px">
+        <img src="d824896e4f2f1d3f38755c643cba50ea.jpg" alt="Pulpit Rock" style="width:150px;height:150px">
       </a>
     </div>
     
