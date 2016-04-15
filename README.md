@@ -24,7 +24,7 @@
 
   <div class="jumbotron">
     <h1>Hello！ I'm Mira Chen.</h1>
-    <p>Ntust mis</p> 
+    <p>今天要和大家說三個故事...</p> 
   </div>
 
   <div class="row">
@@ -64,9 +64,9 @@
     
 
     <div class="col-md-4">
-      <a href="moustiers-sainte-marie.jpg" class="thumbnail">
+      <a href="下載.jpg" class="thumbnail">
         <p>Moustiers-Sainte-Marie: Considered as one of the "most beautiful villages of France".</p>
-        <img src="moustiers-sainte-marie.jpg" alt="Moustiers Sainte Marie" style="width:150px;height:150px">
+        <img src="下載.jpg" alt="Moustiers Sainte Marie" style="width:150px;height:150px">
       </a>
     </div>
     <div class="col-md-4">
